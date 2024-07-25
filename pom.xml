@@ -97,13 +97,14 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>rithesh</name>
-	      <url>http://13.201.98.167:8081/repository/maven-releases/</url>
+	      <url>http://13.201.98.167:8081/repository/rithesh-relase/
+</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>rithesh</name>
-	      <url>http://13.201.98.167:8081/repository/maven-snapshots/</url>
+	      <url>http://13.201.98.167:8081/repository/rithesh-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
