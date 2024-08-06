@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>rithesh</name>
-	      <url>http://13.233.104.115:8081/repository/rithesh-relase/</url>
+              <url>http://13.233.104.115:8081/repository/rithesh-snapshot/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>rithesh</name>
-	      <url>http://13.233.104.115:8081/repository/rithesh-snapshot/</url>
+	      <url>http://13.233.104.115:8081/repository/rithesh-relase/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
